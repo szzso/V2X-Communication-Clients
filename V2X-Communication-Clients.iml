@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.1" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.1" level="project" />
+    <orderEntry type="library" name="asnrt-3.14.15.5-20161103" level="project" />
+    <orderEntry type="library" name="antlr4-4.5.3" level="project" />
+    <orderEntry type="library" name="antlr4-runtime-4.5.3" level="project" />
+    <orderEntry type="library" name="antlr-runtime-3.3" level="project" />
+    <orderEntry type="library" name="jsr305-3.0.0" level="project" />
+    <orderEntry type="library" name="log4j-1.2.17" level="project" />
+    <orderEntry type="library" name="msgset-d-17.0.2-cbdb6b0-b36" level="project" />
+    <orderEntry type="library" name="rxjava-1.2.9" level="project" />
+    <orderEntry type="library" name="slf4j-api-1.7.7" level="project" />
+    <orderEntry type="library" name="slf4j-simple-1.7.7" level="project" />
+  </component>
+</module>
